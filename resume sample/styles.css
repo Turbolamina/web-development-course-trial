@@ -1,0 +1,36 @@
+body
+{
+    background-color: honeydew;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+table
+{
+    background-color: ivory;
+    width: auto;
+}  
+.profile-pic
+{
+    width: 200px;
+}
+.table2
+{
+    background-color: lightsteelblue;
+}
+hr
+{
+    border-top-color: rgb(12, 17, 15);
+    border-width: 5px;
+}
+.div-1
+{
+    background-color: darkgray;
+    text-decoration-color: cyan;
+}
+.div-2
+{
+  background-color: cornflowerblue;
+  display: inline-block;
+  position:relative;
+  left: 750px;
+}
